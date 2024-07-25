@@ -90,7 +90,7 @@ body{
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        background-image: url('img/fundo.jpg');
+        background-image: url('fundo.jpg');
         padding: 1rem;
         color:var(---branco);
         font-family: var(---fonte-principal);
